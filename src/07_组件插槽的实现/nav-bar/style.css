@@ -1,0 +1,14 @@
+.navBar {
+    display: flex;
+    height: 50px;
+}
+
+.left , .right{
+    width: 50px;
+    background-color: aquamarine;
+}
+
+.center {
+    flex: 1;
+    background-color: bisque;
+}

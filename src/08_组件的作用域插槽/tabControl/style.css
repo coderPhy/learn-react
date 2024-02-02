@@ -1,0 +1,11 @@
+.TabControl {
+    display: flex;
+    height: 50px;
+}
+.tab {
+    flex: 1;
+}
+
+.activeTab {
+    color: red;
+}
